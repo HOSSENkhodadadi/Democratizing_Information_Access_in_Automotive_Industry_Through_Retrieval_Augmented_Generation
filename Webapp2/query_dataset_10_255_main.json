@@ -1,0 +1,3224 @@
+[
+    {
+        "Question": "Which Audi A5 model has a BUSINESS SPORT trim level, a cabriolet body type, and a manual transmission?",
+        "Correct_rows": [
+            100
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi A5 with a 2.0 engine size, AWD drivetrain, and a manual transmission. Which trim level is available?",
+        "Correct_rows": [
+            103
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Audi A5 DESIGN LUXE model with a TDI fuel type and a manual transmission?",
+        "Correct_rows": [
+            104
+        ]
+    },
+    {
+        "Question": "Can you find me an Audi A5 model with a Business trim level, a coupe body type, and an automatic transmission with MHEV power train type?",
+        "Correct_rows": [
+            105
+        ]
+    },
+    {
+        "Question": "Which Audi A5 model has a DESIGN trim level, a cabriolet body type, and a manual transmission with a maximum power of 140KW?",
+        "Correct_rows": [
+            108
+        ]
+    },
+    {
+        "Question": "I want an Audi A5 with a 2.0 engine size, FWD drivetrain, and a manual transmission. Which trim levels are available?",
+        "Correct_rows": [
+            100,
+            107,
+            108
+        ]
+    },
+    {
+        "Question": "Which Audi A5 model has a Quattro edition and a cabriolet body type?",
+        "Correct_rows": [
+            113
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi A5 with a manual transmission and a power output of 140KW, what's the trim level of this car?",
+        "Correct_rows": [
+            110
+        ]
+    },
+    {
+        "Question": "Can you find me an Audi A5 with a 2.0 engine size and a secondary version of 40, what's the fuel type of this car?",
+        "Correct_rows": [
+            112,
+            116,
+            117,
+            118
+        ]
+    },
+    {
+        "Question": "I want an Audi A5 with a maximum power of 185KW and an AWD drivetrain, what's the body type of this car?",
+        "Correct_rows": [
+            113
+        ]
+    },
+    {
+        "Question": "Which Audi A5 model has a battery capacity of NaN and a power train type of MHEV?",
+        "Correct_rows": [
+            112,
+            119
+        ]
+    },
+    {
+        "Question": "Can you find me an Audi A5 with a Quattro edition and a TFSI fuel type, what's the number of doors of this car?",
+        "Correct_rows": [
+            114
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi A5 with a manual transmission and a secondary version of 35, what's the trim level of this car?",
+        "Correct_rows": [
+            119
+        ]
+    },
+    {
+        "Question": "Which Audi A5 model has a 3.0 engine size and is a coupe?",
+        "Correct_rows": [
+            122
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi A5 with a manual transmission and 2 doors, which trim level has a power of 110KW?",
+        "Correct_rows": [
+            124
+        ]
+    },
+    {
+        "Question": "Can you find me an Audi A5 Sportback with a TDI fuel type and automatic transmission?",
+        "Correct_rows": [
+            121
+        ]
+    },
+    {
+        "Question": "Which Audi A5 model has a battery capacity of NaN and a secondary version of 40, but is not a Sportback?",
+        "Correct_rows": [
+            123,
+            128
+        ]
+    },
+    {
+        "Question": "I want an Audi A5 with a MHEV power train type and 5 doors, which trim level has a secondary version of 35?",
+        "Correct_rows": [
+            126
+        ]
+    },
+    {
+        "Question": "Can you find me an Audi A6 model with a 2.0 engine size and an automatic transmission?",
+        "Correct_rows": [
+            129
+        ]
+    },
+    {
+        "Question": "Which Audi A6 model has a Black Edition trim level and is powered by a TDI engine with an automatic transmission?",
+        "Correct_rows": [
+            130
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi A6 with a saloon body type, AWD drivetrain, and a MHEV power train type. Which trim level has a manual transmission?",
+        "Correct_rows": [
+            131,
+            139
+        ]
+    },
+    {
+        "Question": "What is the engine size of the Audi A6 BUSINESS SPORT model with a TDI engine and automatic transmission?",
+        "Correct_rows": [
+            134
+        ]
+    },
+    {
+        "Question": "Which Audi A6 model has a 3.0 engine size and an AWD drivetrain?",
+        "Correct_rows": [
+            136,
+            138
+        ]
+    },
+    {
+        "Question": "I want an Audi A6 with a saloon body type, FWD drivetrain, and a MHEV power train type. Which trim level has a 2.0 engine size?",
+        "Correct_rows": [
+            134
+        ]
+    },
+    {
+        "Question": "Which Audi A6 model has a Black Line trim level and is powered by a TFSI engine with an automatic transmission?",
+        "Correct_rows": [
+            133
+        ]
+    },
+    {
+        "Question": "What is the secondary version of the Audi A6 S LINE model with a TDI engine and automatic transmission?",
+        "Correct_rows": [
+            135
+        ]
+    },
+    {
+        "Question": "Which Audi A7 model has a 2.0 engine size and a manual transmission?",
+        "Correct_rows": [
+            140,
+            143
+        ]
+    },
+    {
+        "Question": "What is the body type of the Audi A8 Sport model?",
+        "Correct_rows": [
+            145
+        ]
+    },
+    {
+        "Question": "Which Audi model has a battery capacity of 95KWH and is an electric vehicle?",
+        "Correct_rows": [
+            146
+        ]
+    },
+    {
+        "Question": "Which Audi Q2 model has a TDI fuel type and a manual transmission?",
+        "Correct_rows": [
+            147
+        ]
+    },
+    {
+        "Question": "What is the maximum power in PS of the Audi A7 S line model with an automatic transmission?",
+        "Correct_rows": [
+            144
+        ]
+    },
+    {
+        "Question": "Which Audi model has a 3.0 engine size and an AWD drivetrain?",
+        "Correct_rows": [
+            141
+        ]
+    },
+    {
+        "Question": "Which Audi Q2 model has a Business Line trim level and an automatic transmission?",
+        "Correct_rows": [
+            149
+        ]
+    },
+    {
+        "Question": "Which Audi Q2 model has a 1.6 TDI engine and a manual transmission?",
+        "Correct_rows": [
+            151
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi Q2 with a 2.0 engine and automatic transmission, but I don't care about the trim level. Which one should I consider?",
+        "Correct_rows": [
+            150
+        ]
+    },
+    {
+        "Question": "What is the maximum power of the Audi Q2 S Line Plus with AWD?",
+        "Correct_rows": [
+            153
+        ]
+    },
+    {
+        "Question": "Can you show me all Audi Q3 models with a 2.0 TFSI engine and manual transmission?",
+        "Correct_rows": [
+            158
+        ]
+    },
+    {
+        "Question": "I want an Audi Q2 with a 1.5 TFSI engine and automatic transmission. Which trim level should I choose?",
+        "Correct_rows": [
+            155
+        ]
+    },
+    {
+        "Question": "Which Audi Q2 model has a secondary version of 40 and a TFSI engine?",
+        "Correct_rows": [
+            153,
+            157
+        ]
+    },
+    {
+        "Question": "Which Audi Q3 model has a 2.5 engine size and is a sports utility vehicle with all-wheel drive?",
+        "Correct_rows": [
+            169
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi Q3 with a TDI fuel type, manual transmission, and 5 doors. Which trim level has a power of 150CV?",
+        "Correct_rows": [
+            160
+        ]
+    },
+    {
+        "Question": "Can you find me an Audi Q3 with a TFSI fuel type, automatic transmission, and a battery capacity of MHEV?",
+        "Correct_rows": [
+            167
+        ]
+    },
+    {
+        "Question": "Which Audi Q3 model has a 2.0 engine size, all-wheel drive, and a secondary version of 40?",
+        "Correct_rows": [
+            162,
+            163,
+            166
+        ]
+    },
+    {
+        "Question": "I want an Audi Q3 with a maximum power of 190 PS and a manual transmission. Which trim levels are available?",
+        "Correct_rows": [
+            166,
+            168
+        ]
+    },
+    {
+        "Question": "Which Audi Q5 model has a 2.0 engine size and is available in manual transmission with AWD?",
+        "Correct_rows": [
+            172,
+            176
+        ]
+    },
+    {
+        "Question": "What is the battery capacity of the Audi Q4 e-tron Design Luxe model?",
+        "Correct_rows": [
+            171
+        ]
+    },
+    {
+        "Question": "Which Audi Q5 model has a power train type of PHEV and is available in manual transmission with AWD?",
+        "Correct_rows": [
+            174
+        ]
+    },
+    {
+        "Question": "Which Audi Q5 model has a maximum power of 245CV and is available in manual transmission with AWD?",
+        "Correct_rows": [
+            175
+        ]
+    },
+    {
+        "Question": "Which Audi Q5 model has a secondary version of 35 and is available in manual transmission with FWD?",
+        "Correct_rows": [
+            176
+        ]
+    },
+    {
+        "Question": "Which Audi Q5 model has a maximum power of 120kW and is available in manual transmission with AWD?",
+        "Correct_rows": [
+            178
+        ]
+    },
+    {
+        "Question": "Which Audi Q5 model has a trim level of Business Design and is available in automatic transmission with AWD?",
+        "Correct_rows": [
+            179
+        ]
+    },
+    {
+        "Question": "Which Audi Q5 model has a fuel type of TDI and is available in automatic transmission with AWD, but does not have a specified engine size?",
+        "Correct_rows": [
+            177,
+            179
+        ]
+    },
+    {
+        "Question": "Which Audi Q5 model has a 3.0 engine size and is available in automatic transmission?",
+        "Correct_rows": [
+            181,
+            183
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi Q5 with a manual transmission and a power train type of MHEV, which trim level should I consider?",
+        "Correct_rows": [
+            180,
+            182,
+            186
+        ]
+    },
+    {
+        "Question": "What is the maximum power in HP of the Audi Q7 S LINE model?",
+        "Correct_rows": [
+            187
+        ]
+    },
+    {
+        "Question": "Can you suggest an Audi model that is a sports utility vehicle, has an electric fuel type, and a battery capacity of 114KWH?",
+        "Correct_rows": [
+            188
+        ]
+    },
+    {
+        "Question": "I want an Audi Q5 with a 2.0 engine size and a driven wheel type of FWD, which trim level should I opt for?",
+        "Correct_rows": [
+            185
+        ]
+    },
+    {
+        "Question": "Which Audi model has a secondary version of 45 and a body type of sports utility vehicle?",
+        "Correct_rows": [
+            180
+        ]
+    },
+    {
+        "Question": "Which Audi model has a 3.0 engine size and is an estate body type with AWD driven wheels?",
+        "Correct_rows": [
+            190
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi TT with a 2.0 engine size and automatic transmission, which trim level has a cabriolet body type and AWD driven wheels?",
+        "Correct_rows": [
+            192
+        ]
+    },
+    {
+        "Question": "What is the maximum power in PS of the Audi TT S line coupe with 3 doors and FWD driven wheels?",
+        "Correct_rows": [
+            193
+        ]
+    },
+    {
+        "Question": "Which Audi model has a 5dr body type and is called Aygo JBL Edition?",
+        "Correct_rows": [
+            195
+        ]
+    },
+    {
+        "Question": "I want an Audi A1 with a 6-marce transmission, what is the trim level of this model?",
+        "Correct_rows": [
+            196
+        ]
+    },
+    {
+        "Question": "Which Audi A3 model has a Basis trim level and Limousine body type with TDI fuel type?",
+        "Correct_rows": [
+            197
+        ]
+    },
+    {
+        "Question": "What is the secondary version of the Audi A4 Business Avant with TFSI fuel type?",
+        "Correct_rows": [
+            199
+        ]
+    },
+    {
+        "Question": "Which Audi A4 model has a trim level of Business Advanced and a transmission type of tiptronic?",
+        "Correct_rows": [
+            201
+        ]
+    },
+    {
+        "Question": "I'm looking for an Audi A5 with a body type of Coup\u00e9 and a fuel type of TDI. Which trim level has a maximum power of 40 HP?",
+        "Correct_rows": [
+            206
+        ]
+    },
+    {
+        "Question": "Can you find me an Audi A4 allroad quattro with a secondary version of 50 and a transmission type of tiptronic?",
+        "Correct_rows": [
+            205
+        ]
+    },
+    {
+        "Question": "Which Audi A6 model has a trim level of Business Design and a maximum power of 55 HP?",
+        "Correct_rows": [
+            209
+        ]
+    },
+    {
+        "Question": "I want an Audi A4 with a body type of Limousine and a fuel type of TDI. Which trim level has a secondary version of 35 and a transmission type of S tronic?",
+        "Correct_rows": [
+            202
+        ]
+    },
+    {
+        "Question": "Which Audi model has a Business plus trim level and a TFSI fuel type?",
+        "Correct_rows": [
+            210
+        ]
+    },
+    {
+        "Question": "I'm looking for a car with a quattro drivetrain and a TDI fuel type, which Audi model is it?",
+        "Correct_rows": [
+            213
+        ]
+    },
+    {
+        "Question": "What is the Bentley model that has a sports utility vehicle body type and an automatic transmission?",
+        "Correct_rows": [
+            214
+        ]
+    },
+    {
+        "Question": "I want a BMW with a diesel engine and an automatic transmission, which model has a hatchback body type?",
+        "Correct_rows": [
+            217
+        ]
+    },
+    {
+        "Question": "Which BMW model has a Sport trim level and a manual transmission?",
+        "Correct_rows": [
+            218
+        ]
+    },
+    {
+        "Question": "I'm looking for a car with a Cabrio body type and an automatic transmission, which BMW model has a 230i power train type?",
+        "Correct_rows": [
+            219
+        ]
+    },
+    {
+        "Question": "Which car model has a 6.8 engine size and a RWD drivetrain?",
+        "Correct_rows": [
+            215
+        ]
+    },
+    {
+        "Question": "I want a car with a 4.0 engine size and an AWD drivetrain, which model is it?",
+        "Correct_rows": [
+            214
+        ]
+    },
+    {
+        "Question": "Which BMW 3 Series model has a diesel engine, automatic transmission, and all-wheel drive?",
+        "Correct_rows": [
+            220,
+            222
+        ]
+    },
+    {
+        "Question": "I'm looking for a BMW 4 Series coupe with a diesel engine and manual transmission. Which trim levels are available?",
+        "Correct_rows": [
+            225,
+            227
+        ]
+    },
+    {
+        "Question": "What is the only BMW 3 Series model with a secondary version of 318d and a manual transmission?",
+        "Correct_rows": [
+            221,
+            223
+        ]
+    },
+    {
+        "Question": "Which BMW model has a secondary version of M340i and an automatic transmission?",
+        "Correct_rows": [
+            224
+        ]
+    },
+    {
+        "Question": "I want a BMW 4 Series with a diesel engine and a manual transmission. Can I get it as a cabrio or a hatchback?",
+        "Correct_rows": [
+            228,
+            229
+        ]
+    },
+    {
+        "Question": "Which BMW 5 Series model has a diesel engine and is available in a saloon body type with rear-wheel drive?",
+        "Correct_rows": [
+            230
+        ]
+    },
+    {
+        "Question": "What is the name of the BMW 7 Series model that comes with a premium unleaded engine and has an Exclusive trim level?",
+        "Correct_rows": [
+            233,
+            234
+        ]
+    },
+    {
+        "Question": "Which BMW model is a sports utility vehicle with an electric powertrain and has a battery capacity of 112 KWh?",
+        "Correct_rows": [
+            238
+        ]
+    },
+    {
+        "Question": "Can you find me a BMW model that is a Cabrio with an unleaded engine and has an automatic transmission?",
+        "Correct_rows": [
+            236
+        ]
+    },
+    {
+        "Question": "What is the name of the BMW model that has a power output of 340 ch and is an electric vehicle?",
+        "Correct_rows": [
+            237
+        ]
+    },
+    {
+        "Question": "Which BMW 7 Series model has a diesel engine and is available in both rear-wheel drive and all-wheel drive options?",
+        "Correct_rows": [
+            233,
+            234
+        ]
+    },
+    {
+        "Question": "Which BMW Series 1 model has a 3.0 engine size and is an M PERFORMANCE edition?",
+        "Correct_rows": [
+            246
+        ]
+    },
+    {
+        "Question": "I'm looking for a diesel BMW Series 1 with a manual transmission and 3 doors. Which trim level is available?",
+        "Correct_rows": [
+            240,
+            242,
+            244,
+            248
+        ]
+    },
+    {
+        "Question": "What is the model number of the BMW Series 1 with a 1.5 engine size, unleaded fuel type, and automatic transmission?",
+        "Correct_rows": [
+            243,
+            245
+        ]
+    },
+    {
+        "Question": "Which BMW Series 1 model has a 2.0 engine size, diesel fuel type, and all-wheel drive (AWD)?",
+        "Correct_rows": [
+            241,
+            244,
+            247
+        ]
+    },
+    {
+        "Question": "I want a BMW Series 1 with a 5-door hatchback and a secondary version of 120D. Which trim levels are available?",
+        "Correct_rows": [
+            241,
+            247
+        ]
+    },
+    {
+        "Question": "Which BMW model has a 1.5-liter engine and is available in a hatchback body type with a manual transmission?",
+        "Correct_rows": [
+            251
+        ]
+    },
+    {
+        "Question": "I'm looking for a BMW SERIES 2 with a diesel engine, automatic transmission, and a cabriolet body type. Which trim level should I consider?",
+        "Correct_rows": [
+            256
+        ]
+    },
+    {
+        "Question": "Can you find me a BMW SERIES 1 model with a 2.0-liter engine, all-wheel drive, and a hatchback body type?",
+        "Correct_rows": [
+            250,
+            252
+        ]
+    },
+    {
+        "Question": "Which BMW model has a 2.0-liter engine, rear-wheel drive, and a coupe body type, and is also available with a manual transmission?",
+        "Correct_rows": [
+            258
+        ]
+    },
+    {
+        "Question": "I want a BMW SERIES 2 with a 1.5-liter engine, front-wheel drive, and a mini MPV body type. Which trim level should I look for?",
+        "Correct_rows": [
+            255
+        ]
+    },
+    {
+        "Question": "Can you find me a BMW SERIES 2 model with a diesel engine, manual transmission, and a saloon body type?",
+        "Correct_rows": [
+            253
+        ]
+    },
+    {
+        "Question": "Which BMW model has a 3.0 engine size and is a coupe with a manual transmission?",
+        "Correct_rows": [
+            260
+        ]
+    },
+    {
+        "Question": "I'm looking for a BMW SERIES 3 with a diesel engine, automatic transmission, and 5 doors. Which trim level is it?",
+        "Correct_rows": [
+            263
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the BMW SERIES 2 SPORT with an automatic transmission?",
+        "Correct_rows": [
+            261
+        ]
+    },
+    {
+        "Question": "Which BMW SERIES 3 model has a 2.0 engine size, unleaded fuel type, and a manual transmission?",
+        "Correct_rows": [
+            262,
+            265,
+            269
+        ]
+    },
+    {
+        "Question": "I want a BMW SERIES 3 with a diesel engine, MHEV power train type, and a manual transmission. Which trim level is it?",
+        "Correct_rows": [
+            266
+        ]
+    },
+    {
+        "Question": "Which BMW model has a 3.0 engine size, unleaded fuel type, and an automatic transmission?",
+        "Correct_rows": [
+            267
+        ]
+    },
+    {
+        "Question": "What is the body type of the BMW SERIES 3 320I with a 2.0 engine size and an automatic transmission?",
+        "Correct_rows": [
+            269
+        ]
+    },
+    {
+        "Question": "Which BMW model has a 2.0-liter engine, is a saloon, and has an automatic transmission?",
+        "Correct_rows": [
+            270,
+            273
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the BMW SERIES 4 with a 3.0-liter engine and automatic transmission?",
+        "Correct_rows": [
+            274,
+            276
+        ]
+    },
+    {
+        "Question": "Which BMW model has a manual transmission, is a hatchback, and has a diesel engine?",
+        "Correct_rows": [
+            275
+        ]
+    },
+    {
+        "Question": "Which BMW SERIES 4 model has a 2.0-liter engine, is a cabriolet, and has a manual transmission?",
+        "Correct_rows": [
+            278
+        ]
+    },
+    {
+        "Question": "What is the body type of the BMW SERIES 3 with a 1.5-liter engine and manual transmission?",
+        "Correct_rows": [
+            271
+        ]
+    },
+    {
+        "Question": "Which BMW model has an electric engine, is a saloon, and has an automatic transmission?",
+        "Correct_rows": [
+            270
+        ]
+    },
+    {
+        "Question": "Which BMW SERIES 4 model has a 2.0-liter engine, is a coupe, and has a manual transmission?",
+        "Correct_rows": [
+            279
+        ]
+    },
+    {
+        "Question": "Which BMW Series 4 model has a 2.0-liter engine, is a coupe, and has an MHEV power train type?",
+        "Correct_rows": [
+            280,
+            283
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the BMW Series 5 BUSINESS DESIGN model with an automatic transmission and 4 doors?",
+        "Correct_rows": [
+            286
+        ]
+    },
+    {
+        "Question": "Which BMW Series 4 model has a manual transmission, 2 doors, and a 2.0-liter engine?",
+        "Correct_rows": [
+            282
+        ]
+    },
+    {
+        "Question": "Which BMW Series 5 model has a 3.0-liter engine, is a saloon, and has a maximum power of 183KW?",
+        "Correct_rows": [
+            289
+        ]
+    },
+    {
+        "Question": "What is the body type of the BMW Series 4 M SPORT model with an automatic transmission and AWD?",
+        "Correct_rows": [
+            280
+        ]
+    },
+    {
+        "Question": "Which BMW Series 5 model has a PHEV power train type and an electric fuel type?",
+        "Correct_rows": [
+            286
+        ]
+    },
+    {
+        "Question": "Which BMW Series 4 model has a 3.0-liter engine, is a coupe, and has an automatic transmission?",
+        "Correct_rows": [
+            284
+        ]
+    },
+    {
+        "Question": "Which BMW car model has a 2.0-liter engine, is a diesel, and has an MHEV power train type?",
+        "Correct_rows": [
+            293
+        ]
+    },
+    {
+        "Question": "I'm looking for a BMW SERIES 5 car with a 3.0-liter engine, automatic transmission, and AWD. Which trim level should I consider?",
+        "Correct_rows": [
+            290,
+            291,
+            294
+        ]
+    },
+    {
+        "Question": "Which BMW car model has a 3.0-liter engine, is an unleaded, and has an automatic transmission?",
+        "Correct_rows": [
+            296
+        ]
+    },
+    {
+        "Question": "I want a BMW car with a 3.0-liter engine, AWD, and a hatchback body type. Which series should I look at?",
+        "Correct_rows": [
+            295,
+            296
+        ]
+    },
+    {
+        "Question": "Which BMW car model has a 2.0-liter engine, is a diesel, and has a PHEV power train type?",
+        "Correct_rows": [
+            291
+        ]
+    },
+    {
+        "Question": "What is the BMW car model that has a 3.0-liter engine, is a diesel, and has a 5-door hatchback body type?",
+        "Correct_rows": [
+            295
+        ]
+    },
+    {
+        "Question": "Which BMW model is a cabrio with premium unleaded fuel and automatic transmission?",
+        "Correct_rows": [
+            300
+        ]
+    },
+    {
+        "Question": "I'm looking for a BMW Serie 1 with diesel fuel and manual transmission, which trim level has 5 doors and AWD?",
+        "Correct_rows": [
+            302
+        ]
+    },
+    {
+        "Question": "What is the BMW model with MHEV power train type and 2 doors?",
+        "Correct_rows": [
+            305
+        ]
+    },
+    {
+        "Question": "Can you find a BMW Serie 2 with diesel fuel, automatic transmission, and 4 doors?",
+        "Correct_rows": [
+            306
+        ]
+    },
+    {
+        "Question": "I want a BMW Serie 4 with unleaded fuel and automatic transmission, which model has M SPORT trim level?",
+        "Correct_rows": [
+            309
+        ]
+    },
+    {
+        "Question": "Which BMW model has a battery capacity of NaN kWh and is a saloon?",
+        "Correct_rows": [
+            306
+        ]
+    },
+    {
+        "Question": "Find a BMW Serie 1 with diesel fuel and automatic transmission, which model has MSport Exterior trim level?",
+        "Correct_rows": [
+            303
+        ]
+    },
+    {
+        "Question": "Which BMW Serie 5 model has a Luxury trim level and is powered by a diesel engine with an MHEV power train type?",
+        "Correct_rows": [
+            312
+        ]
+    },
+    {
+        "Question": "I'm looking for a BMW car with a hatchback body type, unleaded fuel type, and a manual transmission. Which model is it?",
+        "Correct_rows": [
+            317,
+            318,
+            319
+        ]
+    },
+    {
+        "Question": "What is the BMW model that has a Cabrio body type, xDrive driven wheels, and an 840i secondary version?",
+        "Correct_rows": [
+            316
+        ]
+    },
+    {
+        "Question": "Which BMW Serie 5 model has an M Sport trim level and is powered by a diesel engine with an AWD driven wheel?",
+        "Correct_rows": [
+            313,
+            314
+        ]
+    },
+    {
+        "Question": "I want a BMW car with a saloon body type, diesel fuel type, and an automatic transmission. Which models are available?",
+        "Correct_rows": [
+            310,
+            311,
+            312,
+            313,
+            314,
+            315
+        ]
+    },
+    {
+        "Question": "Which BMW model has a 1.5 engine size and is powered by an unleaded fuel type?",
+        "Correct_rows": [
+            318
+        ]
+    },
+    {
+        "Question": "Which BMW model has a diesel engine, automatic transmission, and 5 doors, but is not an X1?",
+        "Correct_rows": [
+            320
+        ]
+    },
+    {
+        "Question": "I'm looking for a BMW X1 with a manual transmission and front-wheel drive. Which trim level should I consider?",
+        "Correct_rows": [
+            323
+        ]
+    },
+    {
+        "Question": "What is the engine size of the BMW X2 Advantage model with a diesel engine and automatic transmission?",
+        "Correct_rows": [
+            327
+        ]
+    },
+    {
+        "Question": "Can you show me a BMW X1 model with an unleaded engine, automatic transmission, and all-wheel drive?",
+        "Correct_rows": [
+            324
+        ]
+    },
+    {
+        "Question": "I want a BMW X2 with a premium unleaded engine and manual transmission. Which trim level has a 2.0 engine size?",
+        "Correct_rows": [
+            328
+        ]
+    },
+    {
+        "Question": "Which BMW model has a diesel engine, manual transmission, and 2 doors?",
+        "Correct_rows": [
+            321
+        ]
+    },
+    {
+        "Question": "What is the name of the BMW X2 model with a diesel engine, automatic transmission, and a special edition name?",
+        "Correct_rows": [
+            329
+        ]
+    },
+    {
+        "Question": "Which BMW X3 model has a 2.0-liter engine and is available in luxury trim?",
+        "Correct_rows": [
+            333
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the BMW X2 M SPORT X model with a manual transmission?",
+        "Correct_rows": [
+            330,
+            331
+        ]
+    },
+    {
+        "Question": "Which BMW X4 model has a maximum power of 195kW and is available in M Sport-X trim?",
+        "Correct_rows": [
+            337
+        ]
+    },
+    {
+        "Question": "Which BMW X3 model has a power train type of MHEV and is available in Pro Edition trim?",
+        "Correct_rows": [
+            335
+        ]
+    },
+    {
+        "Question": "What is the engine size of the BMW X5 M Competition model?",
+        "Correct_rows": [
+            339
+        ]
+    },
+    {
+        "Question": "Which BMW X3 model has a maximum power of 286ch and is available in M Sport trim?",
+        "Correct_rows": [
+            334
+        ]
+    },
+    {
+        "Question": "Which BMW X2 model has a diesel engine and is available in M SPORT trim?",
+        "Correct_rows": [
+            331
+        ]
+    },
+    {
+        "Question": "Which BMW X4 model has a 3.0-liter engine and is available in PRO EDITION trim?",
+        "Correct_rows": [
+            338
+        ]
+    },
+    {
+        "Question": "Which BMW X5 model has a diesel engine and an automatic transmission with 5 doors?",
+        "Correct_rows": [
+            340
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the BMW X6 Business model?",
+        "Correct_rows": [
+            342
+        ]
+    },
+    {
+        "Question": "Which car model has a battery capacity of 85KWH and is an electric vehicle?",
+        "Correct_rows": [
+            346
+        ]
+    },
+    {
+        "Question": "Which BMW model is a saloon with an electric power train and has 4 doors?",
+        "Correct_rows": [
+            344
+        ]
+    },
+    {
+        "Question": "What is the engine size of the BMW X5 M SPORT model?",
+        "Correct_rows": [
+            340
+        ]
+    },
+    {
+        "Question": "Which car model is a convertible with 2 doors and has a 2.5 engine size?",
+        "Correct_rows": [
+            345
+        ]
+    },
+    {
+        "Question": "Which BYD model is a sports utility vehicle with an electric power train and has 5 doors?",
+        "Correct_rows": [
+            348
+        ]
+    },
+    {
+        "Question": "Which BMW model has a secondary version of xDrive30D and has a diesel engine?",
+        "Correct_rows": [
+            340
+        ]
+    },
+    {
+        "Question": "Which Cadillac model has a 6.2 engine size and is a saloon type?",
+        "Correct_rows": [
+            351
+        ]
+    },
+    {
+        "Question": "I'm looking for a car with a battery capacity of 50KWH and an electric power train type, which Citroen model is it?",
+        "Correct_rows": [
+            355,
+            359
+        ]
+    },
+    {
+        "Question": "What is the engine size of the Citroen Berlingo CONTROL model with a BLUEHDI fuel type and manual transmission?",
+        "Correct_rows": [
+            354
+        ]
+    },
+    {
+        "Question": "Which Citroen Berlingo model has a maximum power of 100 KW and an electric power train type?",
+        "Correct_rows": [
+            355
+        ]
+    },
+    {
+        "Question": "I want a car with a 1.5 engine size and a BLUEHDI fuel type, which Citroen Berlingo models are available?",
+        "Correct_rows": [
+            354,
+            356,
+            357,
+            358
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the Cadillac XT4 LAUNCH EDITION model?",
+        "Correct_rows": [
+            352
+        ]
+    },
+    {
+        "Question": "Which Citroen Berlingo model has a maximum power of 130HP and an automatic transmission?",
+        "Correct_rows": [
+            357
+        ]
+    },
+    {
+        "Question": "Which Citroen Berlingo model has a 1.5 engine size and a power of 130HP?",
+        "Correct_rows": [
+            362
+        ]
+    },
+    {
+        "Question": "I'm looking for a Citroen Berlingo with a BLUEHDI fuel type and a manual transmission, which trim level has a 1.6 engine size?",
+        "Correct_rows": [
+            367
+        ]
+    },
+    {
+        "Question": "Can you find me a Citroen Berlingo with an electric power train and an automatic transmission that has a battery capacity of 50KWH?",
+        "Correct_rows": [
+            360,
+            369
+        ]
+    },
+    {
+        "Question": "Which Citroen Berlingo model has a mini MPV body type and a power of 100HP?",
+        "Correct_rows": [
+            361
+        ]
+    },
+    {
+        "Question": "I want a Citroen Berlingo with a SHINE trim level and a BLUEHDI fuel type, which one has a power of 75KW?",
+        "Correct_rows": [
+            364
+        ]
+    },
+    {
+        "Question": "Can you find me a Citroen Berlingo with a WORKER trim level and a 3 doors number of doors?",
+        "Correct_rows": [
+            367,
+            368
+        ]
+    },
+    {
+        "Question": "Which Citroen model has a 1.5L engine and is classified as a sports utility vehicle?",
+        "Correct_rows": [
+            374
+        ]
+    },
+    {
+        "Question": "I'm looking for a Citroen C3 with an automatic transmission and a power output of 96KW, which trim level should I consider?",
+        "Correct_rows": [
+            375
+        ]
+    },
+    {
+        "Question": "Can you show me all the Citroen C1 models with a 1.0L engine and a manual transmission?",
+        "Correct_rows": [
+            371,
+            372,
+            373
+        ]
+    },
+    {
+        "Question": "Which Citroen model has a BLUEHDI engine and is classified as a commercial hatch?",
+        "Correct_rows": [
+            379
+        ]
+    },
+    {
+        "Question": "I want a Citroen Berlingo with a manual transmission, what is the body type of this car?",
+        "Correct_rows": [
+            370
+        ]
+    },
+    {
+        "Question": "Can you find me a Citroen C3 with a PURETECH engine and a manual transmission, but not the FEEL NAV EDITION?",
+        "Correct_rows": [
+            377
+        ]
+    },
+    {
+        "Question": "Which Citroen C3 model has a 1.5 engine size and is available in a commercial hatch body type?",
+        "Correct_rows": [
+            382
+        ]
+    },
+    {
+        "Question": "I'm looking for a Citroen C4 CACTUS with a PURETECH engine and manual transmission, which trim level should I consider?",
+        "Correct_rows": [
+            385
+        ]
+    },
+    {
+        "Question": "Can you find me a Citroen C4 SPACETOURER with a BLUEHDI engine and automatic transmission that has a maximum power of 96KW?",
+        "Correct_rows": [
+            387
+        ]
+    },
+    {
+        "Question": "Which Citroen model has a battery capacity of 50KWH and is an electric vehicle?",
+        "Correct_rows": [
+            386
+        ]
+    },
+    {
+        "Question": "I want a Citroen C3 with a 1.2 engine size and manual transmission, which trim levels are available?",
+        "Correct_rows": [
+            381,
+            383
+        ]
+    },
+    {
+        "Question": "Can you find me a Citroen C4 CACTUS with a PURETECH engine and manual transmission that has a maximum power of 81KW?",
+        "Correct_rows": [
+            385
+        ]
+    },
+    {
+        "Question": "Which Citroen model has a 2.0 engine size and 160HP power, and is it an automatic or manual transmission?",
+        "Correct_rows": [
+            392,
+            394,
+            398
+        ]
+    },
+    {
+        "Question": "I'm looking for a Citroen Jumper with a 2.2 engine size and 103KW power, what type of body does it have?",
+        "Correct_rows": [
+            395
+        ]
+    },
+    {
+        "Question": "Can you find me a Citroen Dispatch with a BLUEHDI fuel type and 5 doors?",
+        "Correct_rows": [
+            390
+        ]
+    },
+    {
+        "Question": "What is the battery capacity of the Citroen E-Jumpy Confort model?",
+        "Correct_rows": [
+            391
+        ]
+    },
+    {
+        "Question": "I want a Citroen Grand C4 Spacetourer with a PureTech engine, what trim level is it?",
+        "Correct_rows": [
+            393
+        ]
+    },
+    {
+        "Question": "Which Citroen Jumper model has an electric power train and a 70 KWH battery capacity?",
+        "Correct_rows": [
+            399
+        ]
+    },
+    {
+        "Question": "Which Citroen Jumper model has a 2.2 engine size and 140HP max power?",
+        "Correct_rows": [
+            400
+        ]
+    },
+    {
+        "Question": "I'm looking for a Citroen Jumpy with an electric power train and 50KWH battery capacity. Which trim level is available?",
+        "Correct_rows": [
+            406,
+            407
+        ]
+    },
+    {
+        "Question": "What is the max power in kW of the Citroen Jumpy Confort model with a 2.0 engine size?",
+        "Correct_rows": [
+            408
+        ]
+    },
+    {
+        "Question": "Can you find me a Citroen Jumper with a parcel van body type and manual transmission?",
+        "Correct_rows": [
+            400
+        ]
+    },
+    {
+        "Question": "Which Citroen Jumpy model has a 1.5 engine size and manual transmission?",
+        "Correct_rows": [
+            409
+        ]
+    },
+    {
+        "Question": "I want a Citroen Jumper with a BLUEHDI fuel type and 4 doors. Which trim levels are available?",
+        "Correct_rows": [
+            400,
+            401,
+            402
+        ]
+    },
+    {
+        "Question": "Which Citroen model has a battery capacity of 75 KWH and is an electric vehicle?",
+        "Correct_rows": [
+            411
+        ]
+    },
+    {
+        "Question": "I'm looking for a Citroen Jumpy with a manual transmission and a BlueHDi fuel type, which trim level has a maximum power of 90KW?",
+        "Correct_rows": [
+            415
+        ]
+    },
+    {
+        "Question": "Can you find me a Citroen Relay with a 2.2 engine size and a manual transmission?",
+        "Correct_rows": [
+            418
+        ]
+    },
+    {
+        "Question": "Which Citroen model has a maximum power of 140HP and is a panel van with a BLUEHDI fuel type?",
+        "Correct_rows": [
+            418
+        ]
+    },
+    {
+        "Question": "I need a Citroen Jumpy with an electric power train and an automatic transmission, which trim level has a maximum power of 50KW?",
+        "Correct_rows": [
+            414
+        ]
+    },
+    {
+        "Question": "Is there a Citroen model with a 1.5 engine size and a manual transmission, and is it an MPV?",
+        "Correct_rows": [
+            419
+        ]
+    },
+    {
+        "Question": "Which Citroen Spacetourer model has a 1.5 engine size and manual transmission?",
+        "Correct_rows": [
+            420
+        ]
+    },
+    {
+        "Question": "What is the battery capacity of the Citroen Spacetourer Feel electric model?",
+        "Correct_rows": [
+            422
+        ]
+    },
+    {
+        "Question": "Which Citroen model has a 2.0 engine size and automatic transmission, and is not an Spacetourer?",
+        "Correct_rows": [
+            428,
+            429
+        ]
+    },
+    {
+        "Question": "What is the power of the Citroen Spacetourer Shine model with a BlueHDi engine?",
+        "Correct_rows": [
+            424
+        ]
+    },
+    {
+        "Question": "Which electric Citroen model has a 75 kWh battery capacity and automatic transmission?",
+        "Correct_rows": [
+            423,
+            425
+        ]
+    },
+    {
+        "Question": "What is the drivetrain of the Jeep Compass Brooklyn Edition?",
+        "Correct_rows": [
+            427
+        ]
+    },
+    {
+        "Question": "Which Citroen model has a 156 horsepower engine and is not an Spacetourer?",
+        "Correct_rows": [
+            426
+        ]
+    },
+    {
+        "Question": "Which electric car model has a battery capacity of unknown value and a maximum power of 180KW?",
+        "Correct_rows": [
+            430
+        ]
+    },
+    {
+        "Question": "I'm looking for a hatchback car with a 2.0 TSI engine and automatic transmission, which model is it?",
+        "Correct_rows": [
+            432
+        ]
+    },
+    {
+        "Question": "What is the model of the car with a 2.2 engine and 2wd driven wheels, but the body type is unknown?",
+        "Correct_rows": [
+            433
+        ]
+    },
+    {
+        "Question": "I want a car with a 1.4 engine and 5 doors, but I don't care about the body type, which model is it?",
+        "Correct_rows": [
+            430,
+            434
+        ]
+    },
+    {
+        "Question": "Which car model has a 1.6 LPG engine and manual transmission, and is a mini MPV?",
+        "Correct_rows": [
+            439
+        ]
+    },
+    {
+        "Question": "I'm looking for a car with a maximum power of 110kW and automatic transmission, which model is it?",
+        "Correct_rows": [
+            431
+        ]
+    },
+    {
+        "Question": "What is the model of the car with a 1.2 engine and MT5 transmission, but the body type is unknown?",
+        "Correct_rows": [
+            437
+        ]
+    },
+    {
+        "Question": "Which Dacia model has a 1.3 engine size and is available in both FWD and AWD transmission types?",
+        "Correct_rows": [
+            443,
+            445
+        ]
+    },
+    {
+        "Question": "I'm looking for a Dacia Dokker with a manual transmission and 4 doors, what trim level is available?",
+        "Correct_rows": [
+            440,
+            441
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Dacia Duster Access with a 1.6 engine size?",
+        "Correct_rows": [
+            442
+        ]
+    },
+    {
+        "Question": "Can I get a Dacia Logan with a manual transmission and 5 doors, what is the trim level?",
+        "Correct_rows": [
+            448
+        ]
+    },
+    {
+        "Question": "Which Dacia model has a 0.9 engine size and is available with an LPG fuel type?",
+        "Correct_rows": [
+            449
+        ]
+    },
+    {
+        "Question": "I want a Dacia Duster with a TCe transmission type and a 1.3 engine size, what are the available trim levels?",
+        "Correct_rows": [
+            443,
+            445
+        ]
+    },
+    {
+        "Question": "Which Dacia model has a 1.5 engine and is available in manual transmission?",
+        "Correct_rows": [
+            451
+        ]
+    },
+    {
+        "Question": "What is the battery capacity of the Dacia Spring Confort Plus?",
+        "Correct_rows": [
+            450
+        ]
+    },
+    {
+        "Question": "Which DS 3 Crossback model has a 1.2 engine and is available in both manual and automatic transmission?",
+        "Correct_rows": [
+            454,
+            455,
+            456
+        ]
+    },
+    {
+        "Question": "Which car model has a 2.0 engine and is a 5dr with 2WD?",
+        "Correct_rows": [
+            453
+        ]
+    },
+    {
+        "Question": "Which DS 3 Crossback model has a BlueHDi engine and is available in automatic transmission with 96 kW power?",
+        "Correct_rows": [
+            457,
+            458
+        ]
+    },
+    {
+        "Question": "Which electric car model has a 50 kW/h battery capacity and is a sports utility vehicle?",
+        "Correct_rows": [
+            459
+        ]
+    },
+    {
+        "Question": "Which Dacia Sandero model has a 1.0 engine and is available in manual transmission with 110CV power?",
+        "Correct_rows": [
+            452
+        ]
+    },
+    {
+        "Question": "Which DS car model has a 1.2 engine size and is a cabriolet?",
+        "Correct_rows": [
+            463
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the DS 3 Crossback LOUVRE sports utility vehicle with an automatic transmission?",
+        "Correct_rows": [
+            460
+        ]
+    },
+    {
+        "Question": "Which DS car model has a maximum power of 96 kW and is a sports utility vehicle?",
+        "Correct_rows": [
+            460
+        ]
+    },
+    {
+        "Question": "Which DS car model is a hatchback with a BLUEHDI engine and has 5 doors?",
+        "Correct_rows": [
+            464,
+            466
+        ]
+    },
+    {
+        "Question": "What is the trim level of the DS 3 Crossback with a PureTech engine and an automatic transmission?",
+        "Correct_rows": [
+            461
+        ]
+    },
+    {
+        "Question": "Which DS car model is an electric vehicle with an automatic transmission and all-wheel drive?",
+        "Correct_rows": [
+            469
+        ]
+    },
+    {
+        "Question": "Which DS car model has a maximum power of 130 HP and is a hatchback?",
+        "Correct_rows": [
+            466
+        ]
+    },
+    {
+        "Question": "Which Ferrari model has a 3.9L engine and is a coupe with a manual transmission?",
+        "Correct_rows": [
+            471
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat 500 with a 1.0L engine and MHEV power train type, which trim level has a 70hp max power?",
+        "Correct_rows": [
+            477
+        ]
+    },
+    {
+        "Question": "What is the body type of the Fiat 500 with a 1.2L engine and LPG fuel type?",
+        "Correct_rows": [
+            476
+        ]
+    },
+    {
+        "Question": "Which Fiat 500 model is an electric vehicle with a 95cv max power and automatic transmission?",
+        "Correct_rows": [
+            478
+        ]
+    },
+    {
+        "Question": "I want a Fiat 500 with a 1.2L engine and unleaded fuel type, which trim level has a manual transmission and 3 doors?",
+        "Correct_rows": [
+            475,
+            479
+        ]
+    },
+    {
+        "Question": "What is the engine size of the Ferrari F8 Tributo with a premium unleaded fuel type and RWD driven wheels?",
+        "Correct_rows": [
+            472
+        ]
+    },
+    {
+        "Question": "Which Fiat 500 model has a battery capacity of 42KWH and is an automatic transmission?",
+        "Correct_rows": [
+            481,
+            482
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat 500 with a 1.0 engine size and manual transmission, which trim levels are available?",
+        "Correct_rows": [
+            483,
+            484,
+            485
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Fiat 500C Mirror with a 1.2 engine size?",
+        "Correct_rows": [
+            486
+        ]
+    },
+    {
+        "Question": "Which Fiat 500L model has a Multijet fuel type and a 5-door body type?",
+        "Correct_rows": [
+            487,
+            488
+        ]
+    },
+    {
+        "Question": "I want a Fiat 500 with a maximum power of 95cv, which models are available and what are their body types?",
+        "Correct_rows": [
+            488,
+            489
+        ]
+    },
+    {
+        "Question": "Which Fiat 500 model has a 0.9 engine size and a manual transmission?",
+        "Correct_rows": [
+            480
+        ]
+    },
+    {
+        "Question": "Which Fiat 500L model has a manual transmission and a 1.3 engine size?",
+        "Correct_rows": [
+            490
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat 500X with a 1.6 engine size and a manual transmission, which trim levels are available?",
+        "Correct_rows": [
+            492,
+            493,
+            494,
+            496,
+            497,
+            498
+        ]
+    },
+    {
+        "Question": "What is the power of the Fiat 500X CITY CROSS with a 1.0 engine size?",
+        "Correct_rows": [
+            495
+        ]
+    },
+    {
+        "Question": "Can you find me a Fiat 500X with an automatic transmission and a 1.6 engine size?",
+        "Correct_rows": [
+            497
+        ]
+    },
+    {
+        "Question": "Which Fiat 500X models have a 130ch power output?",
+        "Correct_rows": [
+            496,
+            498
+        ]
+    },
+    {
+        "Question": "I want a Fiat 500X with a 1.6 engine size and a power output of 120cv, which trim levels are available?",
+        "Correct_rows": [
+            492,
+            493
+        ]
+    },
+    {
+        "Question": "Which Fiat 500X model has a manual transmission and a power output of 130cv?",
+        "Correct_rows": [
+            501
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat Doblo with a BLUEHDI engine and an automatic transmission, which trim level is available?",
+        "Correct_rows": [
+            507
+        ]
+    },
+    {
+        "Question": "What is the engine size of the Fiat 500X Urban model with a power output of 110 CV?",
+        "Correct_rows": [
+            502
+        ]
+    },
+    {
+        "Question": "Can you find me a Fiat Doblo Cargo with a MULTIJET engine and a 2-door platform cab body type?",
+        "Correct_rows": [
+            509
+        ]
+    },
+    {
+        "Question": "Which Fiat 500X model has a 1.5 engine and is classified as a sports utility vehicle?",
+        "Correct_rows": [
+            503
+        ]
+    },
+    {
+        "Question": "I want a Fiat Doblo with a manual transmission and a power output of 100HP, which body type is available?",
+        "Correct_rows": [
+            504
+        ]
+    },
+    {
+        "Question": "Which Fiat Doblo Cargo model has a 1.4 engine and runs on CNG?",
+        "Correct_rows": [
+            513
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat Doblo with a 1.6 engine and 5 doors, which trim level has a maximum power of 88KW?",
+        "Correct_rows": [
+            515,
+            516
+        ]
+    },
+    {
+        "Question": "What is the body type of the Fiat Doblo Cargo with a 1.3 engine and manual transmission?",
+        "Correct_rows": [
+            510
+        ]
+    },
+    {
+        "Question": "Can you find me a Fiat Doblo with a 1.6 engine and 4 doors that is not a combi?",
+        "Correct_rows": [
+            512,
+            514,
+            517
+        ]
+    },
+    {
+        "Question": "Which Fiat Doblo model has a maximum power of 120HP and is classified as a mini MPV?",
+        "Correct_rows": [
+            518
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the Fiat Doblo Cargo with a 1.6 engine and 2 doors?",
+        "Correct_rows": [
+            517
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a 2.3 engine size and a manual transmission, and is a drop side body type?",
+        "Correct_rows": [
+            522,
+            523
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat Ducato panel van with an automatic transmission and a 2.2 engine size. Which one has a power of 130KW?",
+        "Correct_rows": [
+            525
+        ]
+    },
+    {
+        "Question": "Can you find me a Fiat Ducato chassis cab with a 2.2 engine size and a power of 117KW?",
+        "Correct_rows": [
+            520
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a 2.3 engine size, a manual transmission, and a power of 104KW, and is a panel van body type?",
+        "Correct_rows": [
+            528
+        ]
+    },
+    {
+        "Question": "I need a Fiat Ducato panel van with a diesel engine and an automatic transmission. Which one has a power of 180HP?",
+        "Correct_rows": [
+            526
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a battery capacity of 47KWH and is powered by an electric motor?",
+        "Correct_rows": [
+            533
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Fiat Ducato model with a 2.3 engine size and manual transmission?",
+        "Correct_rows": [
+            531,
+            532
+        ]
+    },
+    {
+        "Question": "Is there a Fiat Ducato model that runs on CNG and has a maximum power of 100KW?",
+        "Correct_rows": [
+            535
+        ]
+    },
+    {
+        "Question": "Can I find a Fiat Ducato tipper with a diesel engine and manual transmission that has a maximum power of 130KW?",
+        "Correct_rows": [
+            538
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a 3.0 engine size and a secondary version of 136BHP?",
+        "Correct_rows": [
+            536,
+            537
+        ]
+    },
+    {
+        "Question": "Is there an electric Fiat Ducato model with an automatic transmission and a battery capacity greater than 47KWH?",
+        "Correct_rows": [
+            534
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a battery capacity of 47KWH and is an electric vehicle?",
+        "Correct_rows": [
+            545
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat Ducato with a 2.3 engine size and a manual transmission, which trim levels are available?",
+        "Correct_rows": [
+            540,
+            541,
+            546,
+            547,
+            548,
+            549
+        ]
+    },
+    {
+        "Question": "What is the maximum power in HP of the Fiat Ducato ALU drop side with a 2.3 engine size?",
+        "Correct_rows": [
+            540,
+            541
+        ]
+    },
+    {
+        "Question": "Can you show me all the Fiat Ducato models with a 2 door configuration and a FWD drivetrain?",
+        "Correct_rows": [
+            543,
+            544,
+            547
+        ]
+    },
+    {
+        "Question": "I need a Fiat Ducato with an automatic transmission and a panel van body type, which models are available?",
+        "Correct_rows": [
+            542,
+            545
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a 2.2 engine size and a MJT3 fuel type?",
+        "Correct_rows": [
+            542,
+            543
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a 3.0 engine size and is a chassis cab with GNV fuel type?",
+        "Correct_rows": [
+            550
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat Ducato panel van with a 2.2 engine size and manual transmission, which trim level is available?",
+        "Correct_rows": [
+            551,
+            558,
+            559
+        ]
+    },
+    {
+        "Question": "What is the body type of the Fiat Ducato model with a 2.3 engine size and MULTIJET fuel type, and has a PRO LOUNGE trim level?",
+        "Correct_rows": [
+            554,
+            555,
+            556
+        ]
+    },
+    {
+        "Question": "Can you find me a Fiat Ducato model with a 2 door driven wheels and MJET fuel type, what is its trim level?",
+        "Correct_rows": [
+            557
+        ]
+    },
+    {
+        "Question": "I need a Fiat Ducato panel van with a manual transmission and 4 doors, which models have a MAX_POWER_KW of 117KW?",
+        "Correct_rows": [
+            557
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato models have a MAX_POWER_HP of 140HP and a manual transmission?",
+        "Correct_rows": [
+            558,
+            559
+        ]
+    },
+    {
+        "Question": "Which Fiat car model has a battery capacity of 79KWH and is an electric vehicle?",
+        "Correct_rows": [
+            560,
+            561
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat Dobl\u00f2 with a manual transmission and a power output of 96 KW, how many doors does it have?",
+        "Correct_rows": [
+            563
+        ]
+    },
+    {
+        "Question": "What is the engine size of the Fiat Dobl\u00f2 Cargo Pro Lounge?",
+        "Correct_rows": [
+            565
+        ]
+    },
+    {
+        "Question": "Can you find me a Fiat Dobl\u00f2 with a BlueHDi fuel type and an automatic transmission that has a power output of 130HP?",
+        "Correct_rows": [
+            568
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a Multijet fuel type and a manual transmission with a power output of 180CV?",
+        "Correct_rows": [
+            569
+        ]
+    },
+    {
+        "Question": "I want a Fiat car with a car van body type and a FWD driven wheel, which models have a 1.5 engine size?",
+        "Correct_rows": [
+            562,
+            563,
+            564,
+            568
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a battery capacity of 47kWh and is an electric vehicle?",
+        "Correct_rows": [
+            575,
+            577
+        ]
+    },
+    {
+        "Question": "What is the power train type of the Fiat Ducato with a 2.2 engine size and 120CV power?",
+        "Correct_rows": [
+            573
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato models have a Multijet fuel type and a manual transmission?",
+        "Correct_rows": [
+            570,
+            571,
+            572,
+            574,
+            576,
+            578
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a tipper body type and a 2.3 engine size?",
+        "Correct_rows": [
+            578
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Fiat Ducato with a 160CV power and a 2.3 engine size?",
+        "Correct_rows": [
+            574
+        ]
+    },
+    {
+        "Question": "Which Fiat Ducato model has a Pack Techno trim level and a 2.3 engine size?",
+        "Correct_rows": [
+            579
+        ]
+    },
+    {
+        "Question": "Which Fiat model has a 2.4 diesel engine and is available in both Cross and Pack Sport trims?",
+        "Correct_rows": [
+            591,
+            592
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat Panda with a 1.0 MHEV engine and 5 doors, which trim levels are available?",
+        "Correct_rows": [
+            593,
+            598
+        ]
+    },
+    {
+        "Question": "What is the maximum power of the Fiat Panda City Cross PLUS with a 1.2 engine?",
+        "Correct_rows": [
+            594
+        ]
+    },
+    {
+        "Question": "Can you find me a Fiat model with a 1.4 LPG engine and 5 doors?",
+        "Correct_rows": [
+            597
+        ]
+    },
+    {
+        "Question": "Which Fiat model has a 0.9 engine and all-wheel drive?",
+        "Correct_rows": [
+            596
+        ]
+    },
+    {
+        "Question": "I want a Fiat Fullback with a manual transmission and 4 doors, which trim levels are available?",
+        "Correct_rows": [
+            591,
+            592
+        ]
+    },
+    {
+        "Question": "What is the power train type of the Fiat Panda with a 1.0 MHEV engine?",
+        "Correct_rows": [
+            593,
+            598
+        ]
+    },
+    {
+        "Question": "Which Fiat Scudo model has a battery capacity of 75 KWH and an automatic transmission?",
+        "Correct_rows": [
+            605,
+            606
+        ]
+    },
+    {
+        "Question": "What is the engine size of the Fiat Punto Lounge with a manual transmission and 5 doors?",
+        "Correct_rows": [
+            600
+        ]
+    },
+    {
+        "Question": "Which Fiat Scudo model has a power output of 180ch and an automatic transmission?",
+        "Correct_rows": [
+            607,
+            608
+        ]
+    },
+    {
+        "Question": "Which Fiat model has a BLUEHDI fuel type and a manual transmission?",
+        "Correct_rows": [
+            602,
+            603,
+            604
+        ]
+    },
+    {
+        "Question": "What is the maximum power output in kW of the Fiat Talento BASE with a manual transmission?",
+        "Correct_rows": [
+            609
+        ]
+    },
+    {
+        "Question": "Which Fiat Scudo model has a BEV power train type and a 50 KWH battery capacity?",
+        "Correct_rows": [
+            601
+        ]
+    },
+    {
+        "Question": "Which Fiat model has a 2.0 ECOJET engine and a manual transmission, and is a combi body type?",
+        "Correct_rows": [
+            611
+        ]
+    },
+    {
+        "Question": "I'm looking for a Fiat Tipo with a 1.6 MULTIJET engine and a manual transmission, which trim level has this configuration and is an estate body type?",
+        "Correct_rows": [
+            615
+        ]
+    },
+    {
+        "Question": "Can you find me a Fiat Talento with a 1.6 MJET engine and a manual transmission, and has 4 doors?",
+        "Correct_rows": [
+            610
+        ]
+    },
+    {
+        "Question": "Which Fiat Tipo model has a 1.4 engine and is an entry-level trim, but I don't care about the transmission or body type?",
+        "Correct_rows": [
+            613,
+            614
+        ]
+    },
+    {
+        "Question": "I want a Fiat Tipo with a 1.3 MULTIJET engine and a manual transmission, which body types are available for this configuration?",
+        "Correct_rows": [
+            617,
+            619
+        ]
+    },
+    {
+        "Question": "Which Fiat Tipo model has a 1.5 engine and is an automatic transmission?",
+        "Correct_rows": [
+            622
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the Fiat Talento Pack Techno?",
+        "Correct_rows": [
+            621
+        ]
+    },
+    {
+        "Question": "Which car model has a battery capacity of 50kWh and is an electric vehicle?",
+        "Correct_rows": [
+            626
+        ]
+    },
+    {
+        "Question": "Which Ford model has a 1.5 engine and is an all-wheel drive?",
+        "Correct_rows": [
+            629
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Fiat Tipo City Life?",
+        "Correct_rows": [
+            623
+        ]
+    },
+    {
+        "Question": "Which car model is a sports utility vehicle and has an electric power train type?",
+        "Correct_rows": [
+            627
+        ]
+    },
+    {
+        "Question": "Which Fiat Tipo model has a 1.6 engine and is a manual transmission?",
+        "Correct_rows": [
+            623
+        ]
+    },
+    {
+        "Question": "What is the body type of the Fiat e-Ulysse Lounge?",
+        "Correct_rows": [
+            626
+        ]
+    },
+    {
+        "Question": "Which Ford Ecosport model has a 1.5L engine and is available in a manual transmission with 5 doors?",
+        "Correct_rows": [
+            630,
+            634
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Fiesta Active with an automatic transmission?",
+        "Correct_rows": [
+            636
+        ]
+    },
+    {
+        "Question": "Which Ford Edge model has an AWD drivetrain and a 2.0L engine?",
+        "Correct_rows": [
+            633
+        ]
+    },
+    {
+        "Question": "Which Ford Fiesta model has a 1.1L engine and is available in a manual transmission with 3 doors?",
+        "Correct_rows": [
+            637,
+            639
+        ]
+    },
+    {
+        "Question": "What is the battery capacity in kWh of the Ford Ecosport ST-LINE NOIR/JAUNE model?",
+        "Correct_rows": [
+            631
+        ]
+    },
+    {
+        "Question": "Which Ford Ecosport model has a 1.0L engine and is available in a manual transmission with 5 doors and a power output of 100PS?",
+        "Correct_rows": [
+            635
+        ]
+    },
+    {
+        "Question": "Which Ford Fiesta model has a 1.0L engine and is available in a manual transmission with 5 doors and a power output of 85PS?",
+        "Correct_rows": [
+            638
+        ]
+    },
+    {
+        "Question": "Which Ford Fiesta model has a 1.5 engine size and 5 doors?",
+        "Correct_rows": [
+            640
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Focus with a 1.0 engine size and manual transmission, which trim level has 125PS power?",
+        "Correct_rows": [
+            647
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Fiesta with a 1.0 engine size, 3 doors, and 74KW max power?",
+        "Correct_rows": [
+            641,
+            644
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has an automatic transmission and 88KW max power?",
+        "Correct_rows": [
+            648
+        ]
+    },
+    {
+        "Question": "I want a Ford Fiesta with a 1.0 engine size and MHEV power train type, which trim level has 155PS power?",
+        "Correct_rows": [
+            643
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Focus with a 2.0 engine size and automatic transmission?",
+        "Correct_rows": [
+            649
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a 2.3 engine size and all-wheel drive?",
+        "Correct_rows": [
+            658
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Focus with a 1.5 engine size and a manual transmission, which trim level should I consider?",
+        "Correct_rows": [
+            653,
+            659
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Focus COOL & CONNECT with a manual transmission?",
+        "Correct_rows": [
+            657
+        ]
+    },
+    {
+        "Question": "Can you show me the Ford Focus models with a battery capacity of NaN kWh and a power train type of MHEV?",
+        "Correct_rows": [
+            656,
+            657
+        ]
+    },
+    {
+        "Question": "I want a Ford Focus with an estate body type and an automatic transmission, which fuel type options do I have?",
+        "Correct_rows": [
+            650,
+            651,
+            654,
+            656
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a maximum power of 350HP and a driven wheel type of AWD?",
+        "Correct_rows": [
+            658
+        ]
+    },
+    {
+        "Question": "What is the engine size of the Ford Focus BUSINESS with a manual transmission?",
+        "Correct_rows": [
+            655
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a 2.3 engine size and manual transmission?",
+        "Correct_rows": [
+            660
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Focus with an ECOBLUE fuel type and automatic transmission, which trim level has a 1.5 engine size?",
+        "Correct_rows": [
+            663,
+            665
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Focus ST-LINE STYLE with a 1.0 engine size and MHEV power train type?",
+        "Correct_rows": [
+            662,
+            666
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a 2.0 engine size, ECOBLUE fuel type, and manual transmission, and is it available in estate or hatchback body type?",
+        "Correct_rows": [
+            661,
+            667,
+            669
+        ]
+    },
+    {
+        "Question": "I want a Ford Focus with an ECOBOOST fuel type and automatic transmission, which trim level has a 1.0 engine size and 155PS maximum power?",
+        "Correct_rows": [
+            664
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a 1.5L engine and a manual transmission, but is not a Vignale edition?",
+        "Correct_rows": [
+            670,
+            672,
+            676
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Fiesta Active X with a 1.0L engine?",
+        "Correct_rows": [
+            677
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a 1.0L engine, automatic transmission, and a battery capacity, but is not a Vignale edition?",
+        "Correct_rows": [
+            673
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a 1.5L engine, manual transmission, and a power output of 120PS?",
+        "Correct_rows": [
+            676
+        ]
+    },
+    {
+        "Question": "What is the difference in maximum power in kW between the Ford Fiesta Cool & Connect with a manual transmission and the one with an automatic transmission?",
+        "Correct_rows": [
+            678,
+            679
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a 1.0L engine, manual transmission, and a power output of 92kW, but is not a Vignale edition?",
+        "Correct_rows": [
+            671
+        ]
+    },
+    {
+        "Question": "Which Ford Fiesta model has a 1.5-liter engine and is available with a manual transmission and 5 doors?",
+        "Correct_rows": [
+            681,
+            685
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Fiesta with a 1.0-liter EcoBoost engine and a manual transmission. Which trim levels are available with these specifications?",
+        "Correct_rows": [
+            682,
+            683,
+            684,
+            686,
+            688
+        ]
+    },
+    {
+        "Question": "What is the maximum power output of the Ford Fiesta ST PLUS model?",
+        "Correct_rows": [
+            681
+        ]
+    },
+    {
+        "Question": "Can I get a Ford Fiesta with an automatic transmission and a 2.0-liter Ecoblue engine?",
+        "Correct_rows": [
+            689
+        ]
+    },
+    {
+        "Question": "Which Ford Fiesta models have a 1.1-liter engine and are available with a manual transmission?",
+        "Correct_rows": [
+            680,
+            687
+        ]
+    },
+    {
+        "Question": "I want a Ford Fiesta with a 1.0-liter EcoBoost engine and a manual transmission. Which models have a power output of 92kW?",
+        "Correct_rows": [
+            684,
+            686
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a 1.5L engine and an automatic transmission, and is available in a hatchback body type?",
+        "Correct_rows": [
+            690,
+            694
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Focus with a manual transmission and a 1.0 engine, which trim levels are available?",
+        "Correct_rows": [
+            691,
+            692,
+            698
+        ]
+    },
+    {
+        "Question": "What is the maximum power of the Ford Focus ST Line Co-Pilot with an automatic transmission?",
+        "Correct_rows": [
+            693
+        ]
+    },
+    {
+        "Question": "Which Ford Focus model has a diesel engine and a manual transmission, and is available in an estate body type?",
+        "Correct_rows": [
+            696
+        ]
+    },
+    {
+        "Question": "I want a Ford Focus with a 1.5L engine and an automatic transmission, which model has the highest power output?",
+        "Correct_rows": [
+            697
+        ]
+    },
+    {
+        "Question": "Is there a Ford Focus model with a battery capacity of NaN kWh and a power train type of MHEV?",
+        "Correct_rows": [
+            691
+        ]
+    },
+    {
+        "Question": "Which Ford model is not a Focus and has a manual transmission and a 5-door body type?",
+        "Correct_rows": [
+            699
+        ]
+    },
+    {
+        "Question": "Which Ford Grand Tourneo Connect model has a 1.5-liter EcoBlue engine and an automatic transmission?",
+        "Correct_rows": [
+            702
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Galaxy with a manual transmission and a 2.0-liter EcoBlue engine. Which trim level is it?",
+        "Correct_rows": [
+            704
+        ]
+    },
+    {
+        "Question": "What is the power output in kW of the Ford Grand Tourneo Connect Sport with a 1.5-liter EcoBoost engine and a manual transmission?",
+        "Correct_rows": [
+            706
+        ]
+    },
+    {
+        "Question": "Which Ford KA+ model has a 1.2-liter unleaded engine and a manual transmission?",
+        "Correct_rows": [
+            707
+        ]
+    },
+    {
+        "Question": "I want a Ford KUGA with a 2.0-liter TDCI engine and a manual transmission. Which trim level is it?",
+        "Correct_rows": [
+            709
+        ]
+    },
+    {
+        "Question": "Which Ford Grand Tourneo Connect model has all-wheel drive (AWD) and a 2.0-liter EcoBlue engine?",
+        "Correct_rows": [
+            705
+        ]
+    },
+    {
+        "Question": "Which Ford Kuga model has a 2.0 ECOBLUE engine and automatic transmission, but is not a ST-LINE edition?",
+        "Correct_rows": [
+            710,
+            711
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Kuga with a 1.5 TDCI engine and manual transmission, which trim level has 120PS power?",
+        "Correct_rows": [
+            716
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Kuga with AWD and a 2.0 engine, but not a ST-LINE X edition?",
+        "Correct_rows": [
+            710,
+            717
+        ]
+    },
+    {
+        "Question": "Which Ford Kuga model has a 2.5 unleaded engine and automatic transmission, and is also a hybrid electric vehicle?",
+        "Correct_rows": [
+            718
+        ]
+    },
+    {
+        "Question": "I want a Ford Kuga with a 2.0 TDCI engine and manual transmission, which edition has 150PS power and is not a ST-LINE LIMITED EDITION?",
+        "Correct_rows": [
+            713,
+            715
+        ]
+    },
+    {
+        "Question": "Which Ford Kuga model has a 1.5 engine size and is available in a TREND trim level?",
+        "Correct_rows": [
+            723
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Kuga with a TDCI fuel type and a manual transmission, which trim levels are available?",
+        "Correct_rows": [
+            720,
+            725,
+            726
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Kuga ST-Line X model with a 1.5 engine size?",
+        "Correct_rows": [
+            727
+        ]
+    },
+    {
+        "Question": "Which Ford Kuga model has a battery capacity of MHEV and is available in a VIGNALE trim level?",
+        "Correct_rows": [
+            724
+        ]
+    },
+    {
+        "Question": "I want a Ford Kuga with a diesel fuel type and an AWD drivetrain, which models have a maximum power of 132kW?",
+        "Correct_rows": [
+            722,
+            728
+        ]
+    },
+    {
+        "Question": "Which Ford Puma model has a 1.5-liter engine and a manual transmission?",
+        "Correct_rows": [
+            740
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Puma with a Titanium X trim level and an automatic transmission. Which one has a power output of 114KW?",
+        "Correct_rows": [
+            743
+        ]
+    },
+    {
+        "Question": "What is the engine size of the Ford Puma ST-Line X Vignale model with a manual transmission and a power output of 155PS?",
+        "Correct_rows": [
+            745
+        ]
+    },
+    {
+        "Question": "Which Ford Puma model has a 1.0-liter engine, a manual transmission, and a power output of 92KW?",
+        "Correct_rows": [
+            741,
+            747
+        ]
+    },
+    {
+        "Question": "I want a Ford Puma with a Titanium Design trim level and a manual transmission. Which one has a power output of 88kW?",
+        "Correct_rows": [
+            748
+        ]
+    },
+    {
+        "Question": "Which Ford model is a pick-up truck with a 2.0-liter engine and a manual transmission?",
+        "Correct_rows": [
+            749
+        ]
+    },
+    {
+        "Question": "Which Ford Ranger model has a manual transmission and an Ecoblue engine, but is not the Wildtrack version?",
+        "Correct_rows": [
+            755
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford S-MAX with an automatic transmission and a TDCI engine, which trim level should I choose?",
+        "Correct_rows": [
+            758
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Ranger Wildtrack with a 2.0 engine?",
+        "Correct_rows": [
+            753
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Ranger with a 2.2 engine and an automatic transmission?",
+        "Correct_rows": [
+            754
+        ]
+    },
+    {
+        "Question": "Which Ford Ranger model has a power output of 170CV and an automatic transmission?",
+        "Correct_rows": [
+            750,
+            751,
+            752
+        ]
+    },
+    {
+        "Question": "I want a Ford S-MAX with a manual transmission and a power output of 140kW, which trim level should I choose?",
+        "Correct_rows": [
+            759
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the Ford Ranger XLT with a manual transmission and a 2.0 engine?",
+        "Correct_rows": [
+            755
+        ]
+    },
+    {
+        "Question": "Which Ford S-MAX model has a manual transmission and a power output of 190PS?",
+        "Correct_rows": [
+            760
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford S-MAX with an automatic transmission and a 2.0L engine, which trim level has a power output of 240cv?",
+        "Correct_rows": [
+            767
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford S-MAX with a 2.0L engine and a manual transmission, but it should not be the ST-LINE trim?",
+        "Correct_rows": [
+            763,
+            764,
+            765
+        ]
+    },
+    {
+        "Question": "I want a Ford S-MAX with a TDCi engine and an automatic transmission, which model has a power output of 140kW?",
+        "Correct_rows": [
+            762
+        ]
+    },
+    {
+        "Question": "Which Ford model is not an S-MAX and has a 1.5L engine?",
+        "Correct_rows": [
+            769
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford S-MAX with a VIGNALE trim and a manual transmission, but it should have a power output of 110KW?",
+        "Correct_rows": [
+            763
+        ]
+    },
+    {
+        "Question": "Which Ford Tourneo model has a 1.5 engine size and a manual transmission?",
+        "Correct_rows": [
+            773
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the Ford Tourneo Connect with a TITANIUM trim level and an automatic transmission?",
+        "Correct_rows": [
+            770
+        ]
+    },
+    {
+        "Question": "Which Ford Tourneo Custom model has a battery capacity of NaN kWh and a power train type of MHEV?",
+        "Correct_rows": [
+            778
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Tourneo Connect with a TREND trim level and a manual transmission?",
+        "Correct_rows": [
+            771,
+            772
+        ]
+    },
+    {
+        "Question": "Which Ford model has a body type of panel van and a diesel fuel type?",
+        "Correct_rows": [
+            779
+        ]
+    },
+    {
+        "Question": "What is the number of doors of the Ford Tourneo Custom with a TITANIUM X trim level and an automatic transmission?",
+        "Correct_rows": [
+            776
+        ]
+    },
+    {
+        "Question": "Which Ford Tourneo model has a 2.0 engine size and a maximum power of 122PS?",
+        "Correct_rows": [
+            770
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 2.0 engine size and AWD driven wheels?",
+        "Correct_rows": [
+            782
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Transit Connect with a 1.0 engine size and manual transmission, what trim level is it?",
+        "Correct_rows": [
+            783
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Transit Connect with a 1.5 engine size, automatic transmission, and 5 doors?",
+        "Correct_rows": [
+            784
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Transit Connect BASIS with a 1.5 engine size and manual transmission?",
+        "Correct_rows": [
+            786
+        ]
+    },
+    {
+        "Question": "I want a Ford Transit Connect with a TDCI fuel type and 3 doors, what are my options?",
+        "Correct_rows": [
+            785,
+            788
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 100PS power train type and a 1.5 engine size?",
+        "Correct_rows": [
+            789
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Transit Connect with a 1.5 engine size, manual transmission, and a car van body type?",
+        "Correct_rows": [
+            786,
+            787,
+            788,
+            789
+        ]
+    },
+    {
+        "Question": "Which Ford Transit Connect model has a 1.5L engine and an automatic transmission, and is available in a limited trim level?",
+        "Correct_rows": [
+            790
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Transit Courier with a 1.5L CDTI engine and a manual transmission, what trim level is available with 3 doors?",
+        "Correct_rows": [
+            795
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Transit Custom with a 2.0L TDCI engine and a manual transmission, that has a power output of 96KW?",
+        "Correct_rows": [
+            797
+        ]
+    },
+    {
+        "Question": "Which Ford Transit Connect model has a 1.5L ECOBLUE engine and a manual transmission, and is available in a trend trim level with 5 doors?",
+        "Correct_rows": [
+            794
+        ]
+    },
+    {
+        "Question": "I want a Ford Transit Custom with a diesel engine and a manual transmission, what is the power output of the basis trim level?",
+        "Correct_rows": [
+            798
+        ]
+    },
+    {
+        "Question": "Which Ford Transit Custom model has a 2.0 engine size and a manual transmission, and is also a combi?",
+        "Correct_rows": [
+            803,
+            805,
+            806
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Transit Custom with a diesel engine and automatic transmission, but I don't want the TREND NUGGET trim level. Which one should I consider?",
+        "Correct_rows": [
+            801,
+            808,
+            809
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Transit Custom TREND model with a 2.0 engine size and manual transmission?",
+        "Correct_rows": [
+            803,
+            805,
+            806
+        ]
+    },
+    {
+        "Question": "I want a Ford Transit Custom with a MHEV power train type and a combi body type. Which trim levels are available?",
+        "Correct_rows": [
+            803,
+            805,
+            806
+        ]
+    },
+    {
+        "Question": "Which Ford Transit Custom model has a 96KW maximum power and a manual transmission, and is not a panel van?",
+        "Correct_rows": [
+            805,
+            806
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 2.0 engine size and a power train type of MHEV?",
+        "Correct_rows": [
+            817,
+            819
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Transit Custom Trend panel van?",
+        "Correct_rows": [
+            810
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a chassis cab body type and a manual transmission with 105PS of power?",
+        "Correct_rows": [
+            815
+        ]
+    },
+    {
+        "Question": "Can you find a Ford Transit model with a combi body type and a maximum power of 130HP?",
+        "Correct_rows": [
+            812
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a bus body type and a rear-wheel drive with a maximum power of 130PS?",
+        "Correct_rows": [
+            814
+        ]
+    },
+    {
+        "Question": "What is the battery capacity in kWh of the Ford Transit Limited panel van with a manual transmission and MHEV power train type?",
+        "Correct_rows": [
+            817,
+            819
+        ]
+    },
+    {
+        "Question": "Can you find a Ford Transit model with a panel van body type and an automatic transmission with 130PS of power?",
+        "Correct_rows": [
+            818
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 2.0 engine size and a manual transmission, and is a chassis cab with ECOBLUE fuel type?",
+        "Correct_rows": [
+            823,
+            827,
+            828,
+            829
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Transit TREND model with a diesel engine and automatic transmission?",
+        "Correct_rows": [
+            820
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 4-door panel van body type, FWD driven wheels, and a 2.0 engine size?",
+        "Correct_rows": [
+            821,
+            824
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a TREND BU trim level and is a bus with ECOBL fuel type?",
+        "Correct_rows": [
+            822
+        ]
+    },
+    {
+        "Question": "What is the power train type of the Ford Transit TITANIUM model with a manual transmission?",
+        "Correct_rows": [
+            821
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 2-door chassis cab body type, RWD driven wheels, and a 170PS maximum power?",
+        "Correct_rows": [
+            823,
+            827,
+            828
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 2.0 engine size and a manual transmission, and is a chassis cab with 2 doors?",
+        "Correct_rows": [
+            830
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Transit Trend with a battery capacity of 68KWH, what type of transmission does it have?",
+        "Correct_rows": [
+            832
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Transit combi with a diesel fuel type and an automatic transmission, how many doors does it have?",
+        "Correct_rows": [
+            834
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of a Ford Transit Trend panel van with a 2.0 engine size and a manual transmission?",
+        "Correct_rows": [
+            837
+        ]
+    },
+    {
+        "Question": "I want a Ford Transit drop side with an electric fuel type, which one has a battery capacity of 77KWH and a rear-wheel drive?",
+        "Correct_rows": [
+            836
+        ]
+    },
+    {
+        "Question": "Which Ford Transit Trend model has a maximum power of 96KW and a 4-door configuration?",
+        "Correct_rows": [
+            831
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 2.0 engine size and a power train type of MHEV?",
+        "Correct_rows": [
+            840,
+            842
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Transit Trend with a diesel engine and manual transmission?",
+        "Correct_rows": [
+            841,
+            843,
+            844,
+            845
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has an electric engine and an automatic transmission with a battery capacity of 68KWH?",
+        "Correct_rows": [
+            846
+        ]
+    },
+    {
+        "Question": "Which Ford model is a mini MPV with a TDCi engine and a manual transmission?",
+        "Correct_rows": [
+            848
+        ]
+    },
+    {
+        "Question": "What is the maximum power in HP of the Ford Transit Trend with a diesel engine and a manual transmission?",
+        "Correct_rows": [
+            845
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 2.0 engine size and a power train type of MHEV with a driven wheel type of RWD?",
+        "Correct_rows": [
+            842
+        ]
+    },
+    {
+        "Question": "Which Ford model is an MPV with a TDCI engine and a manual transmission with a maximum power of 96kW?",
+        "Correct_rows": [
+            849
+        ]
+    },
+    {
+        "Question": "Which Ford model has a 1.5 engine size and is a combi type with 5 doors?",
+        "Correct_rows": [
+            854
+        ]
+    },
+    {
+        "Question": "What is the maximum power in kW of the Ford Transit Custom Nugget Plus campervan with a diesel engine?",
+        "Correct_rows": [
+            856
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a manual transmission and 2 doors, but is not a panel van?",
+        "Correct_rows": [
+            851
+        ]
+    },
+    {
+        "Question": "Can you find a Ford car with a 2.0 engine size, manual transmission, and 4 doors that is not a Transit Custom model?",
+        "Correct_rows": [
+            850
+        ]
+    },
+    {
+        "Question": "What is the power train type of the Ford Transit Custom Trend panel van with a 2.0 engine size?",
+        "Correct_rows": [
+            858
+        ]
+    },
+    {
+        "Question": "Which Ford model has a 55kW maximum power and is a car van type?",
+        "Correct_rows": [
+            853
+        ]
+    },
+    {
+        "Question": "Is there a Ford Transit Custom model with an automatic transmission and a maximum power of 125kW?",
+        "Correct_rows": [
+            857
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 2.0 engine size, manual transmission, and 4 doors, but is not an Entry trim level?",
+        "Correct_rows": [
+            860,
+            867,
+            868,
+            869
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Transit with a diesel engine, AWD, and a maximum power of 170. Which trim levels are available?",
+        "Correct_rows": [
+            861,
+            862,
+            866
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Transit panel van with an ECOB fuel type and a manual transmission?",
+        "Correct_rows": [
+            867,
+            868,
+            869
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a 2-door body type, RWD, and a maximum power of 130?",
+        "Correct_rows": [
+            863
+        ]
+    },
+    {
+        "Question": "I need a Ford Transit with a chassis cab body type, diesel engine, and a manual transmission. Which models are available?",
+        "Correct_rows": [
+            860,
+            861,
+            862,
+            866
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a battery capacity of 68kWh and is an electric vehicle?",
+        "Correct_rows": [
+            874
+        ]
+    },
+    {
+        "Question": "I'm looking for a Ford Transit with a 2.0 engine size and MHEV power train type, what trim level and body type should I expect?",
+        "Correct_rows": [
+            875
+        ]
+    },
+    {
+        "Question": "Can you find me a Ford Transit with a maximum power of 269PS and automatic transmission?",
+        "Correct_rows": [
+            874
+        ]
+    },
+    {
+        "Question": "What is the body type of the Ford Transit with a maximum power of 136kW and manual transmission?",
+        "Correct_rows": [
+            877
+        ]
+    },
+    {
+        "Question": "I need a Ford Transit with a chassis cab body type and MHEV power train type, which transmission type should I choose?",
+        "Correct_rows": [
+            873
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a maximum power of 170 CV and AWD driven wheels?",
+        "Correct_rows": [
+            876
+        ]
+    },
+    {
+        "Question": "Which Ford Transit model has a battery capacity of 68kWh and a maximum power of 269CV?",
+        "Correct_rows": [
+            882,
+            883
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the FORD Transit Trend with a manual transmission and 4 doors?",
+        "Correct_rows": [
+            880,
+            881
+        ]
+    },
+    {
+        "Question": "Which car model has a power train type of PHEV and an engine size of 2.0?",
+        "Correct_rows": [
+            884
+        ]
+    },
+    {
+        "Question": "Which Fiat model has a maximum power of 95cv and an engine size of 1.3?",
+        "Correct_rows": [
+            887
+        ]
+    },
+    {
+        "Question": "Which car model is a panel van with a diesel engine and a manual transmission?",
+        "Correct_rows": [
+            880,
+            881
+        ]
+    },
+    {
+        "Question": "Which car model has a battery capacity and is not a diesel or petrol car?",
+        "Correct_rows": [
+            882,
+            883,
+            888
+        ]
+    },
+    {
+        "Question": "Which car model has a maximum power of 118ch and is an electric car?",
+        "Correct_rows": [
+            888
+        ]
+    },
+    {
+        "Question": "Which Ford model has a 1.0L engine and is available in a 5-door version?",
+        "Correct_rows": [
+            891,
+            892
+        ]
+    },
+    {
+        "Question": "I'm looking for a car with a convertible body type and a 3.0i engine, can you find it?",
+        "Correct_rows": [
+            897
+        ]
+    },
+    {
+        "Question": "What is the name of the Ford model that has a TREND trim level and is not a passenger car?",
+        "Correct_rows": [
+            894,
+            895,
+            896
+        ]
+    },
+    {
+        "Question": "Can you find a car with a diesel engine and an AUTOMATIQUE transmission?",
+        "Correct_rows": [
+            899
+        ]
+    },
+    {
+        "Question": "I want a car with a 1.5L engine and a DSG transmission, but I don't care about the make. What are my options?",
+        "Correct_rows": [
+            898,
+            899
+        ]
+    },
+    {
+        "Question": "Which car has a 125 ch power output and a mHEV power train type?",
+        "Correct_rows": [
+            892
+        ]
+    },
+    {
+        "Question": "Which car model has a 2.0 L engine and 5 doors, and is not a hybrid?",
+        "Correct_rows": [
+            900
+        ]
+    },
+    {
+        "Question": "I'm looking for a Honda Civic with a manual transmission and a 1.0 L engine, what trim level is it?",
+        "Correct_rows": [
+            902
+        ]
+    },
+    {
+        "Question": "What is the body type of the Hyundai Elantra with a manual transmission and a 1.6 L engine?",
+        "Correct_rows": [
+            907
+        ]
+    },
+    {
+        "Question": "Which car model has a DCT transmission and a 1.6 L engine, but the body type is not specified?",
+        "Correct_rows": [
+            905,
+            906
+        ]
+    },
+    {
+        "Question": "I want a car with a 1.0 L engine and 5 doors, what are my options?",
+        "Correct_rows": [
+            902,
+            908,
+            909
+        ]
+    },
+    {
+        "Question": "What is the fuel type of the Ford Galaxy with a 6Spd transmission?",
+        "Correct_rows": [
+            900
+        ]
+    },
+    {
+        "Question": "Which car model has a 1.6 L engine and 4 doors, and is not a hatchback?",
+        "Correct_rows": [
+            903,
+            907
+        ]
+    }
+    ,
+    {
+        "Question": "I want a BMW car with a diesel engine, automatic transmission, and a 4-door saloon body type. Which models are available?",
+        "Correct_rows": [
+            310,
+            311,
+            312,
+            313,
+            314,
+            315
+        ]
+    },
+    {
+        "Question": "Can you show me the BMW X3 models that have a MHEV power train type and an automatic transmission?",
+        "Correct_rows": [
+            332,
+            334,
+            335
+        ]
+    }
+
+]

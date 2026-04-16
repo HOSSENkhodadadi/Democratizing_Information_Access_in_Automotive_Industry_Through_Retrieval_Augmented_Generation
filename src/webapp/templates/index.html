@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <div class="card">
+            <div class="card-header">
+                <h3>Select a Question or Write Your Own</h3>
+            </div>
+            <div class="card-body">
+                <div class="list-group mb-4">
+                    {% for query in queries %}
+                    <a href="#" class="list-group-item list-group-item-action query-item" data-index="{{ query.index }}">
+                        {{ query.Question }}
+                    </a>
+                    {% endfor %}
+                </div>
+
+                <form id="customQueryForm" action="{{ url_for('process_query') }}" method="POST">
+                    <div class="mb-3">
+                        <label for="customQuery" class="form-label">Or write your own question:</label>
+                        <textarea class="form-control" id="customQuery" name="customQuery" rows="3"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

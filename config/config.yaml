@@ -1,0 +1,55 @@
+# Configuration for Automotive RAG System
+
+# Data paths
+data:
+  gold_csv: "data/raw/gold_initial.csv"
+  nlq_dataset: "data/raw/query_dataset_10_255_main.json"
+  results_dir: "results"
+
+# Model settings
+model:
+  name: "sentence-transformers/all-mpnet-base-v2"
+  embedding_dim: 768
+  device: "auto"  # "auto", "cuda", or "cpu"
+
+# Search engine settings
+search_engine:
+  similarity_metric: "CS"  # L2, IP, or CS (cosine similarity)
+  capacity: 50
+
+# Training settings
+training:
+  epochs: 15
+  patience: 5
+  preferred_total: 4
+  mode: "random"
+  norm_order: 2
+  test_size: 0.20
+  random_state: 42
+
+# Hyperparameter grid for adaptation
+hyperparameters:
+  batch_sizes: [32, 64]
+  learning_rates: [0.0001, 0.0005, 0.001]
+  positive_tendencies: [0.7, 0.8, 0.9]
+  margins: [0.5, 0.7]
+  regularization_strengths: [0.0, 0.1, 0.3]
+
+# Generation settings
+generation:
+  model: "llama-3.3-70b-versatile"
+  temperature: 1
+  top_p: 1
+  system_prompt: |
+    You are an AI assistant that helps responding to queries asked by a client in an automotive company. 
+    The queries can be regarding the makes, models, brands, etc. of specific cars.
+    You will receive a query and around thirty rows of data that may contain the required info.
+    Respond to the query given the rows. If the given rows do not include the required data, 
+    mention that the required context is not available, then mention the rows you used as correct context.
+
+# Web application settings
+webapp:
+  host: "0.0.0.0"
+  port: 5005
+  debug: true
+  sample_queries: 5
