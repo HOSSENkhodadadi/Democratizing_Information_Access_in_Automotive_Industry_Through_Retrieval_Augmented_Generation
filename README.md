@@ -95,6 +95,17 @@ Then open http://localhost:5005 in your browser.
 |----------|-------------|
 | `GROQ_API_KEY` | API key for Groq LLM service |
 
+## To be added
+Diagrams/tables from thesis experimentations.
+
+Weviate/Quadrant Vectordb.
+
+Google dynamic embedding.
+
+UI on EC2.
+
+
+
 ## License
 
 MIT License
