@@ -1,0 +1,1 @@
+# Democratizing_Information_Access_in_Automotive_Industry_Through_Retrieval_Augmented_Generation
